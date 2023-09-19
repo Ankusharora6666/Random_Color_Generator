@@ -14,7 +14,7 @@ backgroundColor = randomCode;
 
 
 document.getElementById("btn"). 
-AddEventListener( 
+addEventListener( 
     "click", 
     getColor 
 ) 
